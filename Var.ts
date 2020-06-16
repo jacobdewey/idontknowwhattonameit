@@ -1,12 +1,7 @@
 //% weight=100 color=#333333 icon="\uf146"
 namespace Varables{
 //% block
-export function makeVariable(): void{
-    let myVar: number
-
-
-}
-
+let item: number
 
 
 

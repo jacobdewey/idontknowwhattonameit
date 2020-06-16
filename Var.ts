@@ -2,7 +2,9 @@
 namespace Varables{
 //% block
 export function makeVariable(): void{
-    let myVar = 9
+    let myVar: number
+
+
 }
 
 

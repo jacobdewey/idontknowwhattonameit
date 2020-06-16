@@ -1,7 +1,7 @@
 //% weight=100 color=#333333 icon="\uf146"
-namespace Varables{
+namespace StringVarables{
 //% block
-export function makeVoidVariable(m: () => void){
+export function makeStringVariable(m: string): void{
     let myVar = m
 }
 
